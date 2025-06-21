@@ -9,7 +9,7 @@
  */
 public abstract class ReporteDecorator implements Reporte{
 
-    protected Reporte reporte;
+    private Reporte reporte;
 
     public ReporteDecorator(Reporte reporte) {
         this.reporte = reporte;
