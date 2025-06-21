@@ -10,7 +10,7 @@
 public class WhatsAppAPI {
 
     public void sendWhatsApp(String msg) {
-        System.out.println("WhatsApp API → " + msg);
+        System.out.println("WhatsApp API -> " + msg);
     }
 
 }

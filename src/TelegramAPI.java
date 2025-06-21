@@ -10,7 +10,7 @@
 public class TelegramAPI {
     
     public void sendTelegram(String msg) {
-        System.out.println("Telegram API → " + msg);
+        System.out.println("Telegram API -> " + msg);
     }
 
 }
